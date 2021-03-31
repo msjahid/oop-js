@@ -5,8 +5,8 @@ class BankAccount{
         }
     }
     deposit(amount){
-		if(amount > 0 && amount <= 25000){
-            this.balance += amount;
+	if(amount > 0 && amount <= 25000){
+		this.balance += amount;
         
     }
 }
