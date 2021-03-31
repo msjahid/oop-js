@@ -11,8 +11,8 @@ class BankAccount{
     }
 }
 
-	getBalance(){
-		return this.balance;
+    getBalance(){
+	return this.balance;
     }
 }
 a = new BankAccount();
